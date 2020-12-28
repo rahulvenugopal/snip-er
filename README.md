@@ -20,7 +20,7 @@ Using ffmpeg, we can cut specific portions of a large video using above command 
 
 We need to pass video length from start time in hh:mm:ss
 
-I wrote a small script to find this elapsed time using python :snake:. Code [here](add)
+I wrote a small script to find this elapsed time using python :snake:. Code [here](https://github.com/rahulvenugopal/snip-er/blob/main/scripts/clip_time.py)
 
 ## To Do
 
